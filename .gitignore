@@ -1,3 +1,11 @@
 
 .idea/workspace.xml
 .idea/misc.xml
+.DS_Store
+*.bin
+*.bin
+*.lock
+.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml
+src/.DS_Store
+src/test/.DS_Store
+src/test/java/.DS_Store
