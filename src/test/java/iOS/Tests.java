@@ -46,7 +46,5 @@ public class Tests extends TestBase {
     public void testNavigateBack() {
         goTo.tap_pickerView_listItem();
         goTo.navigateBack();
-
-        ///
     }
 }
